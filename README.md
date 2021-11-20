@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gl0kom
+- 👀 I’m interested in Web Technologies
+- 🌱 I’m currently learning Java / JavaScript
+- 💞️ I’m looking to collaborate on nothing :)
+- 📫 How to reach me is a really good question :D
